@@ -6,7 +6,7 @@ Please raise a [Pull-Request]() to add an awesome sdk's to this list.
 
 # Table of Contents
 ## Programming Languages
-- [Andriod](#andriod)
+- [Android](#android)
 - [Csharp](#csharp)
 - [IOS](#ios)
 - [Java](#java)
@@ -15,13 +15,13 @@ Please raise a [Pull-Request]() to add an awesome sdk's to this list.
 - [Ruby](#ruby)
 
 
-## Andriod
+## Android
 #### Official
 - [Facebook](https://github.com/facebook/facebook-android-sdk) - Integrate Android 
 apps with Facebook Platform.
 - [Firebase](https://github.com/firebase/firebase-android-sdk) - [Firebase](http://firebase.google.com) Android SDK.
-- [Spotify](https://github.com/spotify/android-sdk) - [Spotify](https://developer.spotify.com/documentation/android/) SDK for Andriod.
-- [Stripe](https://github.com/stripe/stripe-android) - Andriod SDK for the [Stripe](https://stripe.com) API.
+- [Spotify](https://github.com/spotify/android-sdk) - [Spotify](https://developer.spotify.com/documentation/android/) SDK for Android.
+- [Stripe](https://github.com/stripe/stripe-android) - Android SDK for the [Stripe](https://stripe.com) API.
 
 
 #### UnOfficial
